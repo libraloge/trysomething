@@ -1,10 +1,6 @@
 # trysomething
 testing reposetery
 
-libralog832@gmail.com
-zG64uAv6x9qSeVZbHb*NCrLK86@a?y
-
-
 #!/bin/bash
 
 range=$1
